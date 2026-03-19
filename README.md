@@ -87,7 +87,7 @@ Integrated with **Stripe Connect Express**:
 Helping startups & companies build **scalable, real-time, high-performance apps**
 
 - 📧 Email: [adityaverma15.cs@gmail.com](mailto:adityaverma15.cs@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/adityav-dev](https://www.linkedin.com/in/adityav-dev/)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/adityav-dev/](https://www.linkedin.com/in/adityav-dev/)  
 - 🌐 Portfolio: [https://www.adityaverma.dev](https://www.adityaverma.dev/)  
 - 📝 Medium Articles: [https://adityaverma-dev.medium.com/](https://adityaverma-dev.medium.com/)  
 - 🌍 Available for **freelance, remote projects, and full-time opportunities**  
