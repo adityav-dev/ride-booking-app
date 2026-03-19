@@ -1,4 +1,10 @@
+# Force GitHub to detect Dart for Flutter files
 *.dart linguist-language=Dart
+
+# Ignore C++ / Swift / CMake for language stats
 *.cpp linguist-vendored
+*.cxx linguist-vendored
 *.h linguist-vendored
+*.swift linguist-vendored
 CMakeLists.txt linguist-vendored
+*.html linguist-vendored
