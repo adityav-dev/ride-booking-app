@@ -86,10 +86,12 @@ Integrated with **Stripe Connect Express**:
 **Aditya Verma** – Flutter Developer | Mobile App Developer | Building Scalable Apps & MVPs for Startups  
 Helping startups & companies build **scalable, real-time, high-performance apps**
 
-- 📧 Email: [adityaverma15.cs@gmail.com](mailto:adityaverma15.cs@gmail.com)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/adityav-dev/](https://www.linkedin.com/in/adityav-dev/)  
-- 🌐 Portfolio: [https://www.adityaverma.dev](https://www.adityaverma.dev/)  
-- 📝 Medium Articles: [https://adityaverma-dev.medium.com/](https://adityaverma-dev.medium.com/)  
-- 🌍 Available for **freelance, remote projects, and full-time opportunities**  
+📧 Email: adityaverma15.cs@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/adityav-dev/  
+🌐 Portfolio: https://www.adityaverma.dev/  
+📝 Medium: https://adityaverma-dev.medium.com/  
+🐦 X: https://x.com/adityavdev  
+  
+- 🌍 Open to Remote Projects, Collaborations & Full-Time Opportunities 
 
 
